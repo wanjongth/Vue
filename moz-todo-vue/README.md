@@ -1,6 +1,8 @@
 # moz-todo-vue
 vue.js tutorial - [mozilla](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started).
 
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/53491653/215741998-0a6f779c-e3ef-4ef8-a464-b1f1bce38532.png">
+
 ## Project setup
 ```
 npm install
